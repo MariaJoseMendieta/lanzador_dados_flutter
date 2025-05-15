@@ -57,4 +57,4 @@ lanzador_dados_flutter/
 ## 👤 Autor
 
 Desarrollado por **María José Mendieta Ortiz**   
-🌐[https://github.com/MariaJoseMendieta
+🌐https://github.com/MariaJoseMendieta
