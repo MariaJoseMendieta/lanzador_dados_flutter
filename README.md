@@ -8,6 +8,13 @@
 
 ---
 
+## 👁 Vista App
+<p align="center">
+  <img src="lanzador_dados.png" width="200"/>
+</p>
+
+---
+
 ## ✅ Funcionalidades Principales
 
 - Simulación visual de dos dados interactivos.
@@ -56,5 +63,5 @@ lanzador_dados_flutter/
 
 ## 👤 Autor
 
-Desarrollado por **[María José Mendieta Ortiz]**   
-🌐 [https://github.com/MariaJoseMendieta]
+Desarrollado por **María José Mendieta Ortiz**   
+🌐 https://github.com/MariaJoseMendieta
